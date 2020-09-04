@@ -1,0 +1,11 @@
+ 	
+KLhoID8cZV
+
+DB name
+epiz_26473491_phpdasar
+
+username mySQL
+epiz_26473491
+
+Host name 
+sql110.epizy.com
